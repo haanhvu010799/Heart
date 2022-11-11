@@ -1,214 +1,337 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Heart </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ 
+   
+  <style>
+  html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+ 
+.box {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+}
+ 
+canvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+#pinkboard {
+  position: relative;
+  margin: auto;
+  height: 500px;
+  width: 500px;
+  animation: animate 1.3s infinite;
+}
+ 
+#pinkboard:before, #pinkboard:after {
+  content: '';
+  position: absolute;
+  background: #FF5CA4;
+  width: 100px;
+  height: 160px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
+ 
+#pinkboard:before {
+  left: 100px;
+  transform: rotate(-45deg);
+  transform-origin: 0 100%;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25),
+              0 10px 10px rgba(0,0,0,0.22);
+}
+ 
+#pinkboard:after {
+  left: 0;
+  transform: rotate(45deg);
+  transform-origin: 100% 100%;
+}
+ 
+@keyframes animate {
+  0% {
+    transform: scale(1);
+  }
+  30% {
+    transform: scale(.8);
+  }
+  60% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+  </style>
+ </HEAD>
+ 
+ <BODY>
+   <div class="box">
+      <canvas id="pinkboard"></canvas>
+   </div>
+  <script>
+  /*
+ * Settings
+ */
+var settings = {
+  particles: {
+    length:   2000, // maximum amount of particles
+    duration:   2, // particle duration in sec
+    velocity: 100, // particle velocity in pixels/sec
+    effect: -1.3, // play with this for a nice effect
+    size:      13, // particle size in pixels
+  },
+};
+/*
+ * RequestAnimationFrame polyfill by Erik Möller
+ */
+(function(){var b=0;var c=["ms","moz","webkit","o"];for(var a=0;a<c.length&&!window.requestAnimationFrame;++a){window.requestAnimationFrame=window[c[a]+"RequestAnimationFrame"];window.cancelAnimationFrame=window[c[a]+"CancelAnimationFrame"]||window[c[a]+"CancelRequestAnimationFrame"]}if(!window.requestAnimationFrame){window.requestAnimationFrame=function(h,e){var d=new Date().getTime();var f=Math.max(0,16-(d-b));var g=window.setTimeout(function(){h(d+f)},f);b=d+f;return g}}if(!window.cancelAnimationFrame){window.cancelAnimationFrame=function(d){clearTimeout(d)}}}());
+/*
+ * Point class
+ */
+var Point = (function() {
+  function Point(x, y) {
+    this.x = (typeof x !== 'undefined') ? x : 0;
+    this.y = (typeof y !== 'undefined') ? y : 0;
+  }
+  Point.prototype.clone = function() {
+    return new Point(this.x, this.y);
+  };
+  Point.prototype.length = function(length) {
+    if (typeof length == 'undefined')
+      return Math.sqrt(this.x * this.x + this.y * this.y);
+    this.normalize();
+    this.x *= length;
+    this.y *= length;
+    return this;
+  };
+  Point.prototype.normalize = function() {
+    var length = this.length();
+    this.x /= length;
+    this.y /= length;
+    return this;
+  };
+  return Point;
+})();
+/*
+ * Particle class
+ */
+var Particle = (function() {
+  function Particle() {
+    this.position = new Point();
+    this.velocity = new Point();
+    this.acceleration = new Point();
+    this.age = 0;
+  }
+  Particle.prototype.initialize = function(x, y, dx, dy) {
+    this.position.x = x;
+    this.position.y = y;
+    this.velocity.x = dx;
+    this.velocity.y = dy;
+    this.acceleration.x = dx * settings.particles.effect;
+    this.acceleration.y = dy * settings.particles.effect;
+    this.age = 0;
+  };
+  Particle.prototype.update = function(deltaTime) {
+    this.position.x += this.velocity.x * deltaTime;
+    this.position.y += this.velocity.y * deltaTime;
+    this.velocity.x += this.acceleration.x * deltaTime;
+    this.velocity.y += this.acceleration.y * deltaTime;
+    this.age += deltaTime;
+  };
+  Particle.prototype.draw = function(context, image) {
+    function ease(t) {
+      return (--t) * t * t + 1;
+    }
+    var size = image.width * ease(this.age / settings.particles.duration);
+    context.globalAlpha = 1 - this.age / settings.particles.duration;
+    context.drawImage(image, this.position.x - size / 2, this.position.y - size / 2, size, size);
+  };
+  return Particle;
+})();
+/*
+ * ParticlePool class
+ */
+var ParticlePool = (function() {
+  var particles,
+      firstActive = 0,
+      firstFree   = 0,
+      duration    = settings.particles.duration;
+ 
+  function ParticlePool(length) {
+    // create and populate particle pool
+    particles = new Array(length);
+    for (var i = 0; i < particles.length; i++)
+      particles[i] = new Particle();
+  }
+  ParticlePool.prototype.add = function(x, y, dx, dy) {
+    particles[firstFree].initialize(x, y, dx, dy);
+   
+    // handle circular queue
+    firstFree++;
+    if (firstFree   == particles.length) firstFree   = 0;
+    if (firstActive == firstFree       ) firstActive++;
+    if (firstActive == particles.length) firstActive = 0;
+  };
+  ParticlePool.prototype.update = function(deltaTime) {
+    var i;
+   
+    // update active particles
+    if (firstActive < firstFree) {
+      for (i = firstActive; i < firstFree; i++)
+        particles[i].update(deltaTime);
+    }
+    if (firstFree < firstActive) {
+      for (i = firstActive; i < particles.length; i++)
+        particles[i].update(deltaTime);
+      for (i = 0; i < firstFree; i++)
+        particles[i].update(deltaTime);
+    }
+   
+    // remove inactive particles
+    while (particles[firstActive].age >= duration && firstActive != firstFree) {
+      firstActive++;
+      if (firstActive == particles.length) firstActive = 0;
+    }
+   
+   
+  };
+  ParticlePool.prototype.draw = function(context, image) {
+    // draw active particles
+    if (firstActive < firstFree) {
+      for (i = firstActive; i < firstFree; i++)
+        particles[i].draw(context, image);
+    }
+    if (firstFree < firstActive) {
+      for (i = firstActive; i < particles.length; i++)
+        particles[i].draw(context, image);
+      for (i = 0; i < firstFree; i++)
+        particles[i].draw(context, image);
+    }
+  };
+  return ParticlePool;
+})();
+/*
+ * Putting it all together
+ */
+(function(canvas) {
+  var context = canvas.getContext('2d'),
+      particles = new ParticlePool(settings.particles.length),
+      particleRate = settings.particles.length / settings.particles.duration, // particles/sec
+      time;
+ 
+  // get point on heart with -PI <= t <= PI
+  function pointOnHeart(t) {
+    return new Point(
+      160 * Math.pow(Math.sin(t), 3),
+      130 * Math.cos(t) - 50 * Math.cos(2 * t) - 20 * Math.cos(3 * t) - 10 * Math.cos(4 * t) + 25
+    );
+  }
+ 
+  // creating the particle image using a dummy canvas
+  var image = (function() {
+    var canvas  = document.createElement('canvas'),
+        context = canvas.getContext('2d');
+    canvas.width  = settings.particles.size;
+    canvas.height = settings.particles.size;
+    // helper function to create the path
+    function to(t) {
+      var point = pointOnHeart(t);
+      point.x = settings.particles.size / 2 + point.x * settings.particles.size / 350;
+      point.y = settings.particles.size / 2 - point.y * settings.particles.size / 350;
+      return point;
+    }
+    // create the path
+    context.beginPath();
+    var t = -Math.PI;
+    var point = to(t);
+    context.moveTo(point.x, point.y);
+    while (t < Math.PI) {
+      t += 0.01; // baby steps!
+      point = to(t);
+      context.lineTo(point.x, point.y);
+    }
+    context.closePath();
+    // create the fill
+    context.fillStyle = '#FF5CA4';
+    context.fill();
+    // create the image
+    var image = new Image();
+    image.src = canvas.toDataURL();
+    return image;
+  })();
+ 
+  // render that thing!
+  function render() {
+    // next animation frame
+    requestAnimationFrame(render);
+   
+    // update time
+    var newTime   = new Date().getTime() / 1000,
+        deltaTime = newTime - (time || newTime);
+    time = newTime;
+   
+    // clear canvas
+    context.clearRect(0, 0, canvas.width, canvas.height);
+   
+    // create new particles
+    var amount = particleRate * deltaTime;
+    for (var i = 0; i < amount; i++) {
+      var pos = pointOnHeart(Math.PI - 2 * Math.PI * Math.random());
+      var dir = pos.clone().length(settings.particles.velocity);
+      particles.add(canvas.width / 2 + pos.x, canvas.height / 2 - pos.y, dir.x, -dir.y);
+    }
+   
+    // update and draw particles
+    particles.update(deltaTime);
+    particles.draw(context, image);
+  }
+ 
+  // handle (re-)sizing of the canvas
+  function onResize() {
+    canvas.width  = canvas.clientWidth;
+    canvas.height = canvas.clientHeight;
+  }
+  window.onresize = onResize;
+ 
+  // delay rendering bootstrap
+  setTimeout(function() {
+    onResize();
+    render();
+  }, 10);
+})(document.getElementById('pinkboard'));
+  </script>
+  <div class="center-text",
+  style="background-color:rgb(0, 0, 0);
+        width: 150%;
+        color: rgb(239, 245, 245);
+        height:150%;
+        font-size: 25px;
+        font-style: italic;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 5px;
+        text-align: center;">Cho trái tim nè ngừi đẹp,<br>From Hà Anh with love</div>
+        
+ </BODY>
+</HTML>
